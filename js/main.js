@@ -6,6 +6,4 @@ var presidents = [
     {firstName: "George", lastName: "Bush", termLength: "4 years", party: "Republican", yearsOfPresidency: "1989-1993"}
 ];
 
-console.log(presidents[3]);
-    
-    
+console.log(presidents[2].firstName + " " + presidents[2].lastName);
